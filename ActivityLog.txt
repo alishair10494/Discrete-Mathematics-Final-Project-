@@ -1,0 +1,9 @@
+----> GENERATE | Name: Ali | Roll: 2025-CS-107 | Signature: 2129425
+----> VERIFY | Name: Ali | Roll: 2025-CS-107 | STATUS: VERIFIED
+----> GENERATE | Name: ab | Roll: 100 | Signature: 3235
+----> GENERATE | Name: Ali | Roll: 2025-CS-107 | Signature: 2129425
+----> VERIFY | Name: Ali | Roll: 2025-CS-107 | STATUS: VERIFIED
+----> GENERATE | Name: ab | Roll: 100 | Signature: 3235
+----> GENERATE | Name: ba | Roll: 130 | Signature: 3235
+----> GENERATE | Name: Ali | Roll: 2025-CS-108 | Signature: 2129426
+----> VERIFY | Name: Ali | Roll: 2025-CS-108 | STATUS: VERIFIED
